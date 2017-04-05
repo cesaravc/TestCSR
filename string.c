@@ -10,6 +10,7 @@ return (p - s);
 int main(void)
 {
 int i;
+int j;
 char *s[] = {
 "Git tutorials",
 "Tutorials Point"
